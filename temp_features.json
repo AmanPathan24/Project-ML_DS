@@ -1,0 +1,23 @@
+{
+  "AgeYears": 11,
+  "AmenitiesCount": 8,
+  "BHK": 3,
+  "Balconies": 1,
+  "Bathrooms": 2,
+  "BuildingType": "High Rise",
+  "BuiltUpArea_sqft": 1425,
+  "CarpetArea_sqft": 1211,
+  "City": "Bengaluru",
+  "Facing": "North",
+  "Floor": 8,
+  "Furnishing": "Unfurnished",
+  "IsRERARegistered": 1,
+  "Latitude": 12.948053,
+  "Locality": "HSR Layout",
+  "Longitude": 77.785061,
+  "Parking": "Covered",
+  "PropertyType": "Apartment",
+  "SuperBuiltUpArea_sqft": 1768,
+  "TotalFloors": 31,
+  "YearBuilt": 2014
+}
